@@ -1,0 +1,18 @@
+
+^
+java:S1854"<Remove this useless assignment to local variable "fileName".(×ÌÆ®ùÿÿÿÿ8Œº¶Àé/
+O
+java:S1481"-Remove this unused "fileName" local variable.(ÜĞ×õüÿÿÿÿ8º¶Àé/
+Y
+java:S1854"<Remove this useless assignment to local variable "finalURL".(èÇ×Å8‘º¶Àé/
+J
+java:S1481
+"-Remove this unused "finalURL" local variable.(ÕôãÚ8’º¶Àé/
+P
+java:S1121".Extract the assignment out of this expression.(×ÌÆ®ùÿÿÿÿ8”º¶Àé/
+K
+java:S1121".Extract the assignment out of this expression.(èÇ×Å8”º¶Àé/
+
+java:S1319"pThe type of "arrayListofDates" should be an interface such as "List" rather than the implementation "ArrayList".(·‹å8”º¶Àé/
+’
+java:S1319	"pThe type of "arrayListofDates" should be an interface such as "List" rather than the implementation "ArrayList".(ÂÃ¾åÿÿÿÿÿ8”º¶Àé/

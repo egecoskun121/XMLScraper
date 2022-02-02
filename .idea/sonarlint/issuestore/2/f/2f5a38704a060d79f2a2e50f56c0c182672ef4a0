@@ -1,0 +1,15 @@
+
+‰
+java:S1488"mImmediately return this expression instead of assigning it to the temporary variable "currencySellPriceList".(Ù¿ê\8èº±Àé/
+…
+java:S1488"hImmediately return this expression instead of assigning it to the temporary variable "currencyNameList".(–ßÏÀ8êº±Àé/
+Ž
+java:S1488!"lImmediately return this expression instead of assigning it to the temporary variable "currencyBuyPriceList".(°×ÝÙÿÿÿÿÿ8êº±Àé/
+n	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·ÝÅºýÿÿÿÿ8íº±Àé/
+U
+java:S2755"3Disable access to external entities in XML parsing.(Ò•ßçúÿÿÿÿ8à»±Àé/
+U
+java:S2755"3Disable access to external entities in XML parsing.(Ò•ßçúÿÿÿÿ8á»±Àé/
+U
+java:S2755"3Disable access to external entities in XML parsing.(Ò•ßçúÿÿÿÿ8â»±Àé/
